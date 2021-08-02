@@ -55,7 +55,7 @@ class ProductTile extends StatelessWidget {
               product.title,
               maxLines: 2,
               style:
-              TextStyle(fontFamily: 'avenir', fontWeight: FontWeight.w800),
+              TextStyle(fontWeight: FontWeight.w800),
               overflow: TextOverflow.ellipsis,
             ),
             SizedBox(height: 8),
